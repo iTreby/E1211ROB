@@ -49,6 +49,7 @@ void ADeadly_Trap::OnOverlapBegin(UPrimitiveComponent* OverlappedComp, AActor* O
 				player->Energy -= this->damage;
 				GEngine->AddOnScreenDebugMessage(-1, 5, FColor::Red, TEXT("Hit"));
 				player->isTired = true;
+				//I comment destroy to show message
 				//Destroy();
 			}
 			else {

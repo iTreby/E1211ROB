@@ -4,6 +4,7 @@
 #include "E1211ROBEProjectile.h"
 #include "Animation/AnimInstance.h"
 #include "Camera/CameraComponent.h"
+#include "PlayerEnergyWidget.h"
 #include "Components/WidgetComponent.h"
 #include "Components/CapsuleComponent.h"
 #include "Components/InputComponent.h"
@@ -92,8 +93,11 @@ void AE1211ROBECharacter::BeginPlay()
 	// Call the base class  
 	Super::BeginPlay();
 	
-	//auto widget = CreateWidget<UPlayerEnergyWidget>(UGameplayStatics::GetPlayerController(this, 0), WidgetClass);
+	
 
+	/*auto widget = CreateWidget<UPlayerEnergyWidget>(UGameplayStatics::GetPlayerController(this, 0), WidgetClass);
+	widget->Player = this;
+	widget->AddToViewport();*/
 
 	//Attach gun mesh component to Skeleton, doing it here because the skeleton is not yet created in the constructor
 	FP_Gun->AttachToComponent(Mesh1P, FAttachmentTransformRules(EAttachmentRule::SnapToTarget, true), TEXT("GripPoint"));

@@ -21,8 +21,8 @@ void EmptyLinkFunctionForGeneratedCodeE1211ROBE_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xAA740F4F,
-				0xDB2C560B,
+				0x5933CFA7,
+				0xB5C3A770,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);

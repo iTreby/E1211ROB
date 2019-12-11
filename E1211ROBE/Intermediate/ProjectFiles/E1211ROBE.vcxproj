@@ -373,8 +373,12 @@
     <None Include="..\..\Config\DefaultGame.ini" />
     <None Include="..\..\Config\DefaultInput.ini" />
     <ClCompile Include="..\..\Source\E1211ROBE\BoomBox.cpp" />
+    <ClCompile Include="..\..\Source\E1211ROBE\CubemonEnemy.cpp" />
+    <ClCompile Include="..\..\Source\E1211ROBE\CubemonHP.cpp" />
     <ClCompile Include="..\..\Source\E1211ROBE\Deadly_Trap.cpp" />
     <ClInclude Include="..\..\Source\E1211ROBE\BoomBox.h" />
+    <ClInclude Include="..\..\Source\E1211ROBE\CubemonEnemy.h" />
+    <ClInclude Include="..\..\Source\E1211ROBE\CubemonHP.h" />
     <ClInclude Include="..\..\Source\E1211ROBE\Deadly_Trap.h" />
     <None Include="..\..\Source\E1211ROBE\E1211ROBE.Build.cs" />
     <ClCompile Include="..\..\Source\E1211ROBE\E1211ROBE.cpp" />

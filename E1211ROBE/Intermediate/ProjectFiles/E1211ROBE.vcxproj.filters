@@ -88,6 +88,12 @@
     <ClInclude Include="..\..\Source\E1211ROBE\BoomBox.h">
       <Filter>Source\E1211ROBE</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\Source\E1211ROBE\CubemonEnemy.h">
+      <Filter>Source\E1211ROBE</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\E1211ROBE\CubemonHP.h">
+      <Filter>Source\E1211ROBE</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\Source\E1211ROBE\EnergyDrink.cpp">
@@ -97,6 +103,12 @@
       <Filter>Source\E1211ROBE</Filter>
     </ClCompile>
     <ClCompile Include="..\..\Source\E1211ROBE\BoomBox.cpp">
+      <Filter>Source\E1211ROBE</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\E1211ROBE\CubemonEnemy.cpp">
+      <Filter>Source\E1211ROBE</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\E1211ROBE\CubemonHP.cpp">
       <Filter>Source\E1211ROBE</Filter>
     </ClCompile>
   </ItemGroup>
