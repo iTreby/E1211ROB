@@ -48,6 +48,17 @@ class AE1211ROBECharacter : public ACharacter
 public:
 	AE1211ROBECharacter();
 
+	UPROPERTY(BlueprintReadOnly)
+		int Energy = 100;
+	UPROPERTY(EditAnywhere)
+		TSubclassOf<class UPlayerEnergyWidget> WidgetClass;
+	//UPROPERTY(VisibleAnywhere)
+	//	class UWidgetComponent* WidgetComponent;
+
+	UPROPERTY(EditAnywhere)
+		bool isTired = false;
+ 
+
 protected:
 	virtual void BeginPlay();
 

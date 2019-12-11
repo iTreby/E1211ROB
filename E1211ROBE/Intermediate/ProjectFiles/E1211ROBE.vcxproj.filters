@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\E1211ROBE.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{2611AF8B-2570-40FC-A9F8-3F527EE28F1A}</UniqueIdentifier>
+      <UniqueIdentifier>{311B4374-AC08-4572-B107-0925861C5E21}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\E1211ROBE.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{7671F5B6-2EBD-4A99-9471-F0489553CA78}</UniqueIdentifier>
+      <UniqueIdentifier>{E554AB42-96D0-444E-830D-3A6E2FEFE4DD}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,8 +30,14 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\E1211ROBE">
-      <UniqueIdentifier>{1064D76F-2914-42EA-8AF1-11B624B020E4}</UniqueIdentifier>
+      <UniqueIdentifier>{8894E146-0EBD-4CA3-B762-518DE9F49C88}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\E1211ROBE\Deadly_Trap.cpp">
+      <Filter>Source\E1211ROBE</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\E1211ROBE\Deadly_Trap.h">
+      <Filter>Source\E1211ROBE</Filter>
+    </ClInclude>
     <None Include="..\..\Source\E1211ROBE\E1211ROBE.Build.cs">
       <Filter>Source\E1211ROBE</Filter>
     </None>
@@ -65,5 +71,21 @@
     <ClInclude Include="..\..\Source\E1211ROBE\E1211ROBEProjectile.h">
       <Filter>Source\E1211ROBE</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\E1211ROBE\PlayerEnergyWidget.cpp">
+      <Filter>Source\E1211ROBE</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\E1211ROBE\PlayerEnergyWidget.h">
+      <Filter>Source\E1211ROBE</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\E1211ROBE\EnergyDrink.h">
+      <Filter>Source\E1211ROBE</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\E1211ROBE\EnergyDrink.cpp">
+      <Filter>Source\E1211ROBE</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

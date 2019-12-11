@@ -1,14 +1,15 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Robert\Desktop\E1211ROBE_EXAM\E1211ROB).
-  Invalidating makefile for E1211ROBEEditor (E1211ROBE.Build.cs modified)
   Parsing headers for E1211ROBEEditor
     Running UnrealHeaderTool "C:\Users\Robert\Desktop\E1211ROBE_EXAM\E1211ROB\E1211ROBE\E1211ROBE.uproject" "C:\Users\Robert\Desktop\E1211ROBE_EXAM\E1211ROB\E1211ROBE\Intermediate\Build\Win64\E1211ROBEEditor\Development\E1211ROBEEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-  Reflection code generated for E1211ROBEEditor in 6.2031611 seconds
+  Reflection code generated for E1211ROBEEditor in 6.4934826 seconds
   Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 3 actions with 8 processes...
-    [1/3] UE4Editor-E1211ROBE-0001.lib
-       Creating library C:\Users\Robert\Desktop\E1211ROBE_EXAM\E1211ROB\E1211ROBE\Intermediate\Build\Win64\UE4Editor\Development\E1211ROBE\UE4Editor-E1211ROBE-0001.lib and object C:\Users\Robert\Desktop\E1211ROBE_EXAM\E1211ROB\E1211ROBE\Intermediate\Build\Win64\UE4Editor\Development\E1211ROBE\UE4Editor-E1211ROBE-0001.exp
-    [2/3] UE4Editor-E1211ROBE-0001.dll
-       Creating library C:\Users\Robert\Desktop\E1211ROBE_EXAM\E1211ROB\E1211ROBE\Intermediate\Build\Win64\UE4Editor\Development\E1211ROBE\UE4Editor-E1211ROBE-0001.suppressed.lib and object C:\Users\Robert\Desktop\E1211ROBE_EXAM\E1211ROB\E1211ROBE\Intermediate\Build\Win64\UE4Editor\Development\E1211ROBE\UE4Editor-E1211ROBE-0001.suppressed.exp
-    [3/3] E1211ROBEEditor.target
-  Total time in Parallel executor: 1.30 seconds
-  Total execution time: 9.73 seconds
+  Building 5 actions with 8 processes...
+    [1/5] EnergyDrink.gen.cpp
+    [2/5] EnergyDrink.cpp
+    [3/5] UE4Editor-E1211ROBE-0026.lib
+       Creating library C:\Users\Robert\Desktop\E1211ROBE_EXAM\E1211ROB\E1211ROBE\Intermediate\Build\Win64\UE4Editor\Development\E1211ROBE\UE4Editor-E1211ROBE-0026.lib and object C:\Users\Robert\Desktop\E1211ROBE_EXAM\E1211ROB\E1211ROBE\Intermediate\Build\Win64\UE4Editor\Development\E1211ROBE\UE4Editor-E1211ROBE-0026.exp
+    [4/5] UE4Editor-E1211ROBE-0026.dll
+       Creating library C:\Users\Robert\Desktop\E1211ROBE_EXAM\E1211ROB\E1211ROBE\Intermediate\Build\Win64\UE4Editor\Development\E1211ROBE\UE4Editor-E1211ROBE-0026.suppressed.lib and object C:\Users\Robert\Desktop\E1211ROBE_EXAM\E1211ROB\E1211ROBE\Intermediate\Build\Win64\UE4Editor\Development\E1211ROBE\UE4Editor-E1211ROBE-0026.suppressed.exp
+    [5/5] E1211ROBEEditor.target
+  Total time in Parallel executor: 12.76 seconds
+  Total execution time: 20.33 seconds

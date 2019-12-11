@@ -4,6 +4,7 @@
 #include "E1211ROBEProjectile.h"
 #include "Animation/AnimInstance.h"
 #include "Camera/CameraComponent.h"
+#include "Components/WidgetComponent.h"
 #include "Components/CapsuleComponent.h"
 #include "Components/InputComponent.h"
 #include "GameFramework/InputSettings.h"
@@ -19,6 +20,7 @@ DEFINE_LOG_CATEGORY_STATIC(LogFPChar, Warning, All);
 
 AE1211ROBECharacter::AE1211ROBECharacter()
 {
+	//WidgetComponent = CreateDefaultSubobject<UWidgetComponent>(TEXT("Widget"));
 	// Set size for collision capsule
 	GetCapsuleComponent()->InitCapsuleSize(55.f, 96.0f);
 
@@ -88,6 +90,9 @@ void AE1211ROBECharacter::BeginPlay()
 {
 	// Call the base class  
 	Super::BeginPlay();
+	
+	//auto widget = CreateWidget<UPlayerEnergyWidget>(UGameplayStatics::GetPlayerController(this, 0), WidgetClass);
+
 
 	//Attach gun mesh component to Skeleton, doing it here because the skeleton is not yet created in the constructor
 	FP_Gun->AttachToComponent(Mesh1P, FAttachmentTransformRules(EAttachmentRule::SnapToTarget, true), TEXT("GripPoint"));

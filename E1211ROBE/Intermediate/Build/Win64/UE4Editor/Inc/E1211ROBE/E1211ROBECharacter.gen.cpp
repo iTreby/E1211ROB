@@ -22,6 +22,7 @@ void EmptyLinkFunctionForGeneratedCodeE1211ROBECharacter() {}
 	COREUOBJECT_API UClass* Z_Construct_UClass_UClass();
 	E1211ROBE_API UClass* Z_Construct_UClass_AE1211ROBEProjectile_NoRegister();
 	COREUOBJECT_API UScriptStruct* Z_Construct_UScriptStruct_FVector();
+	E1211ROBE_API UClass* Z_Construct_UClass_UPlayerEnergyWidget_NoRegister();
 	HEADMOUNTEDDISPLAY_API UClass* Z_Construct_UClass_UMotionControllerComponent_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_UCameraComponent_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_USceneComponent_NoRegister();
@@ -69,6 +70,19 @@ void EmptyLinkFunctionForGeneratedCodeE1211ROBECharacter() {}
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_BaseTurnRate_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_BaseTurnRate;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_isTired_MetaData[];
+#endif
+		static void NewProp_isTired_SetBit(void* Obj);
+		static const UE4CodeGen_Private::FBoolPropertyParams NewProp_isTired;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_WidgetClass_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FClassPropertyParams NewProp_WidgetClass;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_Energy_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FUnsizedIntPropertyParams NewProp_Energy;
 #if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_L_MotionController_MetaData[];
 #endif
@@ -184,6 +198,33 @@ void EmptyLinkFunctionForGeneratedCodeE1211ROBECharacter() {}
 #endif
 	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_BaseTurnRate = { "BaseTurnRate", nullptr, (EPropertyFlags)0x0010000000020015, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AE1211ROBECharacter, BaseTurnRate), METADATA_PARAMS(Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_BaseTurnRate_MetaData, ARRAY_COUNT(Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_BaseTurnRate_MetaData)) };
 #if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_isTired_MetaData[] = {
+		{ "Category", "E1211ROBECharacter" },
+		{ "Comment", "//UPROPERTY(VisibleAnywhere)\n//\x09""class UWidgetComponent* WidgetComponent;\n" },
+		{ "ModuleRelativePath", "E1211ROBECharacter.h" },
+		{ "ToolTip", "UPROPERTY(VisibleAnywhere)\n       class UWidgetComponent* WidgetComponent;" },
+	};
+#endif
+	void Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_isTired_SetBit(void* Obj)
+	{
+		((AE1211ROBECharacter*)Obj)->isTired = 1;
+	}
+	const UE4CodeGen_Private::FBoolPropertyParams Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_isTired = { "isTired", nullptr, (EPropertyFlags)0x0010000000000001, UE4CodeGen_Private::EPropertyGenFlags::Bool | UE4CodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, 1, sizeof(bool), sizeof(AE1211ROBECharacter), &Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_isTired_SetBit, METADATA_PARAMS(Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_isTired_MetaData, ARRAY_COUNT(Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_isTired_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_WidgetClass_MetaData[] = {
+		{ "Category", "E1211ROBECharacter" },
+		{ "ModuleRelativePath", "E1211ROBECharacter.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FClassPropertyParams Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_WidgetClass = { "WidgetClass", nullptr, (EPropertyFlags)0x0014000000000001, UE4CodeGen_Private::EPropertyGenFlags::Class, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AE1211ROBECharacter, WidgetClass), Z_Construct_UClass_UPlayerEnergyWidget_NoRegister, Z_Construct_UClass_UClass, METADATA_PARAMS(Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_WidgetClass_MetaData, ARRAY_COUNT(Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_WidgetClass_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_Energy_MetaData[] = {
+		{ "Category", "E1211ROBECharacter" },
+		{ "ModuleRelativePath", "E1211ROBECharacter.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FUnsizedIntPropertyParams Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_Energy = { "Energy", nullptr, (EPropertyFlags)0x0010000000000014, UE4CodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AE1211ROBECharacter, Energy), METADATA_PARAMS(Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_Energy_MetaData, ARRAY_COUNT(Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_Energy_MetaData)) };
+#if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_L_MotionController_MetaData[] = {
 		{ "AllowPrivateAccess", "true" },
 		{ "Category", "E1211ROBECharacter" },
@@ -274,6 +315,9 @@ void EmptyLinkFunctionForGeneratedCodeE1211ROBECharacter() {}
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_GunOffset,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_BaseLookUpRate,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_BaseTurnRate,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_isTired,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_WidgetClass,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_Energy,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_L_MotionController,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_R_MotionController,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_FirstPersonCameraComponent,
@@ -310,7 +354,7 @@ void EmptyLinkFunctionForGeneratedCodeE1211ROBECharacter() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AE1211ROBECharacter, 1222251302);
+	IMPLEMENT_CLASS(AE1211ROBECharacter, 4082038852);
 	template<> E1211ROBE_API UClass* StaticClass<AE1211ROBECharacter>()
 	{
 		return AE1211ROBECharacter::StaticClass();
