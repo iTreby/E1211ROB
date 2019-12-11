@@ -372,7 +372,9 @@
     <None Include="..\..\Config\DefaultEngine.ini" />
     <None Include="..\..\Config\DefaultGame.ini" />
     <None Include="..\..\Config\DefaultInput.ini" />
+    <ClCompile Include="..\..\Source\E1211ROBE\BoomBox.cpp" />
     <ClCompile Include="..\..\Source\E1211ROBE\Deadly_Trap.cpp" />
+    <ClInclude Include="..\..\Source\E1211ROBE\BoomBox.h" />
     <ClInclude Include="..\..\Source\E1211ROBE\Deadly_Trap.h" />
     <None Include="..\..\Source\E1211ROBE\E1211ROBE.Build.cs" />
     <ClCompile Include="..\..\Source\E1211ROBE\E1211ROBE.cpp" />
@@ -386,8 +388,10 @@
     <ClCompile Include="..\..\Source\E1211ROBE\E1211ROBEProjectile.cpp" />
     <ClInclude Include="..\..\Source\E1211ROBE\E1211ROBEProjectile.h" />
     <ClCompile Include="..\..\Source\E1211ROBE\EnergyDrink.cpp" />
+    <ClCompile Include="..\..\Source\E1211ROBE\GeneratorPad.cpp" />
     <ClCompile Include="..\..\Source\E1211ROBE\PlayerEnergyWidget.cpp" />
     <ClInclude Include="..\..\Source\E1211ROBE\EnergyDrink.h" />
+    <ClInclude Include="..\..\Source\E1211ROBE\GeneratorPad.h" />
     <ClInclude Include="..\..\Source\E1211ROBE\PlayerEnergyWidget.h" />
   </ItemGroup>
   <PropertyGroup>

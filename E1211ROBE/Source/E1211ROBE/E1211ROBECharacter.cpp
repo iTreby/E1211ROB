@@ -8,6 +8,7 @@
 #include "Components/CapsuleComponent.h"
 #include "Components/InputComponent.h"
 #include "GameFramework/InputSettings.h"
+#include "Engine.h"
 #include "HeadMountedDisplayFunctionLibrary.h"
 #include "Kismet/GameplayStatics.h"
 #include "MotionControllerComponent.h"
@@ -118,6 +119,8 @@ void AE1211ROBECharacter::SetupPlayerInputComponent(class UInputComponent* Playe
 	// set up gameplay key bindings
 	check(PlayerInputComponent);
 
+	PlayerInputComponent->BindAction("Coin", IE_Pressed, this, &AE1211ROBECharacter::Coin);
+
 	// Bind jump events
 	PlayerInputComponent->BindAction("Jump", IE_Pressed, this, &ACharacter::Jump);
 	PlayerInputComponent->BindAction("Jump", IE_Released, this, &ACharacter::StopJumping);
@@ -142,6 +145,28 @@ void AE1211ROBECharacter::SetupPlayerInputComponent(class UInputComponent* Playe
 	PlayerInputComponent->BindAxis("LookUp", this, &APawn::AddControllerPitchInput);
 	PlayerInputComponent->BindAxis("LookUpRate", this, &AE1211ROBECharacter::LookUpAtRate);
 }
+
+void AE1211ROBECharacter::Coin() {
+
+	FMath Random;
+	float temp = Random.FRandRange(0, 1);
+	if (count == 0 || StreakHead) {
+		if (temp > 0.5) {
+			StreakHead = true;
+			count++;
+			FString::FromInt(count);
+			GEngine->AddOnScreenDebugMessage(-1, 5, FColor::Red, TEXT("Head"));
+		}
+		else {
+			StreakHead = false;
+			GEngine->AddOnScreenDebugMessage(-1, 5, FColor::Red, TEXT("Tail"));
+			GEngine->AddOnScreenDebugMessage(-1, 5, FColor::Red, TEXT("Number of head is ") + count);
+			count = 0;
+
+		}
+	}
+}
+
 
 void AE1211ROBECharacter::OnFire()
 {

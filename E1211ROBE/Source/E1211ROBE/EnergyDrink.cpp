@@ -44,27 +44,20 @@ void AEnergyDrink::Tick(float DeltaTime)
 
 void AEnergyDrink::OnOverlapBegin(UPrimitiveComponent* OverlappedComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult)
 {
-	/*FTimerHandle TimerHandle;
-	GetWorld()->GetTimerManager().SetTimer(TimerHandle, this, &AHealKit::Healing, Time, true);*/
-
 	if ((OtherActor != nullptr) && (OtherActor != this) && (OtherComp != nullptr))
 	{
-		ThePlayer = Cast<AE1211ROBECharacter>(OtherActor);
+		//ThePlayer = Cast<AE1211ROBECharacter>(OtherActor);
 		healingOn = true;
-		if ((OtherActor != nullptr) && (OtherActor != this) && (OtherComp != nullptr))
-		{
 			auto player = Cast<AE1211ROBECharacter>(OtherActor);
-			if (player != nullptr) {
 				Count++;
 				if (player->isTired != true) {
 					player->Energy += this->healing;
-					MeshComponent->SetVisibility(false);
+					GEngine->AddOnScreenDebugMessage(-1, 5, FColor::Red, TEXT("Healing"));
 				}
 				if (Count == 3) {
 					player->isTired = false;
+					GEngine->AddOnScreenDebugMessage(-1, 5, FColor::Red, TEXT("Not Tired"));
 				}
-			}
-		}
 		MeshComponent->SetVisibility(false);
 
 	}

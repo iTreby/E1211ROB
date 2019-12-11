@@ -5,6 +5,7 @@
 #include "Kismet/GameplayStatics.h"
 #include "Components/BoxComponent.h"
 #include "E1211ROBECharacter.h"
+#include "Engine.h"
 #include "Components/PrimitiveComponent.h"
 
 // Sets default values
@@ -46,7 +47,9 @@ void ADeadly_Trap::OnOverlapBegin(UPrimitiveComponent* OverlappedComp, AActor* O
 		if (player != nullptr) {
 			if (player->isTired != true) {
 				player->Energy -= this->damage;
-				Destroy();
+				GEngine->AddOnScreenDebugMessage(-1, 5, FColor::Red, TEXT("Hit"));
+				player->isTired = true;
+				//Destroy();
 			}
 			else {
 				player->Energy -= (this->damage * 2);

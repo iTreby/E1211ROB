@@ -71,6 +71,23 @@ void EmptyLinkFunctionForGeneratedCodeE1211ROBECharacter() {}
 #endif
 		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_BaseTurnRate;
 #if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_StreakHead_MetaData[];
+#endif
+		static void NewProp_StreakHead_SetBit(void* Obj);
+		static const UE4CodeGen_Private::FBoolPropertyParams NewProp_StreakHead;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_count_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FUnsizedIntPropertyParams NewProp_count;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_Tail_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FStrPropertyParams NewProp_Tail;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_Head_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FStrPropertyParams NewProp_Head;
+#if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_isTired_MetaData[];
 #endif
 		static void NewProp_isTired_SetBit(void* Obj);
@@ -198,6 +215,38 @@ void EmptyLinkFunctionForGeneratedCodeE1211ROBECharacter() {}
 #endif
 	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_BaseTurnRate = { "BaseTurnRate", nullptr, (EPropertyFlags)0x0010000000020015, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AE1211ROBECharacter, BaseTurnRate), METADATA_PARAMS(Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_BaseTurnRate_MetaData, ARRAY_COUNT(Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_BaseTurnRate_MetaData)) };
 #if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_StreakHead_MetaData[] = {
+		{ "Category", "E1211ROBECharacter" },
+		{ "ModuleRelativePath", "E1211ROBECharacter.h" },
+	};
+#endif
+	void Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_StreakHead_SetBit(void* Obj)
+	{
+		((AE1211ROBECharacter*)Obj)->StreakHead = 1;
+	}
+	const UE4CodeGen_Private::FBoolPropertyParams Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_StreakHead = { "StreakHead", nullptr, (EPropertyFlags)0x0010000000000001, UE4CodeGen_Private::EPropertyGenFlags::Bool | UE4CodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, 1, sizeof(bool), sizeof(AE1211ROBECharacter), &Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_StreakHead_SetBit, METADATA_PARAMS(Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_StreakHead_MetaData, ARRAY_COUNT(Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_StreakHead_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_count_MetaData[] = {
+		{ "Category", "E1211ROBECharacter" },
+		{ "ModuleRelativePath", "E1211ROBECharacter.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FUnsizedIntPropertyParams Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_count = { "count", nullptr, (EPropertyFlags)0x0010000000000014, UE4CodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AE1211ROBECharacter, count), METADATA_PARAMS(Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_count_MetaData, ARRAY_COUNT(Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_count_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_Tail_MetaData[] = {
+		{ "Category", "E1211ROBECharacter" },
+		{ "ModuleRelativePath", "E1211ROBECharacter.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FStrPropertyParams Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_Tail = { "Tail", nullptr, (EPropertyFlags)0x0010000000000014, UE4CodeGen_Private::EPropertyGenFlags::Str, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AE1211ROBECharacter, Tail), METADATA_PARAMS(Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_Tail_MetaData, ARRAY_COUNT(Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_Tail_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_Head_MetaData[] = {
+		{ "Category", "E1211ROBECharacter" },
+		{ "ModuleRelativePath", "E1211ROBECharacter.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FStrPropertyParams Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_Head = { "Head", nullptr, (EPropertyFlags)0x0010000000000014, UE4CodeGen_Private::EPropertyGenFlags::Str, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AE1211ROBECharacter, Head), METADATA_PARAMS(Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_Head_MetaData, ARRAY_COUNT(Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_Head_MetaData)) };
+#if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_isTired_MetaData[] = {
 		{ "Category", "E1211ROBECharacter" },
 		{ "Comment", "//UPROPERTY(VisibleAnywhere)\n//\x09""class UWidgetComponent* WidgetComponent;\n" },
@@ -315,6 +364,10 @@ void EmptyLinkFunctionForGeneratedCodeE1211ROBECharacter() {}
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_GunOffset,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_BaseLookUpRate,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_BaseTurnRate,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_StreakHead,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_count,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_Tail,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_Head,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_isTired,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_WidgetClass,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AE1211ROBECharacter_Statics::NewProp_Energy,
@@ -354,7 +407,7 @@ void EmptyLinkFunctionForGeneratedCodeE1211ROBECharacter() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AE1211ROBECharacter, 4082038852);
+	IMPLEMENT_CLASS(AE1211ROBECharacter, 2491142016);
 	template<> E1211ROBE_API UClass* StaticClass<AE1211ROBECharacter>()
 	{
 		return AE1211ROBECharacter::StaticClass();

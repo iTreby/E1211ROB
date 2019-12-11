@@ -57,6 +57,15 @@ public:
 
 	UPROPERTY(EditAnywhere)
 		bool isTired = false;
+	UPROPERTY(BlueprintReadOnly)
+		FString Head = "Head";
+	UPROPERTY(BlueprintReadOnly)
+		FString Tail = "Tail";
+	UPROPERTY(BlueprintReadOnly)
+		int count = 0;
+	UPROPERTY(EditAnywhere)
+		bool StreakHead = false;
+
  
 
 protected:
@@ -93,6 +102,8 @@ public:
 
 protected:
 	
+	void Coin();
+
 	/** Fires a projectile. */
 	void OnFire();
 

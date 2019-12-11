@@ -1,0 +1,1074 @@
+﻿Log file open, 12/11/19 13:10:45
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: E1211ROBE
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.086291
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.11-18.10.45:906][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.11-18.10.45:906][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.11-18.10.45:906][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Robert/Desktop/E1211ROBE_EXAM/E1211ROB/E1211ROBE/Saved/Config/Windows/Engine.ini]
+[2019.12.11-18.10.45:906][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.11-18.10.45:906][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Robert/Desktop/E1211ROBE_EXAM/E1211ROB/E1211ROBE/Saved/Config/Windows/Engine.ini]
+[2019.12.11-18.10.45:906][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Robert/Desktop/E1211ROBE_EXAM/E1211ROB/E1211ROBE/Saved/Config/Windows/Engine.ini]
+[2019.12.11-18.10.45:906][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.11-18.10.45:906][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.11-18.10.45:906][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.11-18.10.45:906][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.11-18.10.45:906][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.11-18.10.45:906][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.11-18.10.45:906][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.11-18.10.45:906][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.11-18.10.45:906][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.11-18.10.45:906][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.11-18.10.45:906][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.11-18.10.45:906][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.11-18.10.45:906][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.11-18.10.45:906][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Robert/Desktop/E1211ROBE_EXAM/E1211ROB/E1211ROBE/Saved/Config/Windows/Engine.ini]
+[2019.12.11-18.10.45:906][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.11-18.10.45:906][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.11-18.10.45:906][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.11-18.10.45:906][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.11-18.10.45:906][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.11-18.10.45:906][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.11-18.10.45:906][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.11-18.10.45:906][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.11-18.10.45:906][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.11-18.10.45:906][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.11-18.10.45:906][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.11-18.10.45:906][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.11-18.10.45:906][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.11-18.10.45:906][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Robert/Desktop/E1211ROBE_EXAM/E1211ROB/E1211ROBE/Saved/Config/Windows/Engine.ini]
+[2019.12.11-18.10.45:906][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Robert/Desktop/E1211ROBE_EXAM/E1211ROB/E1211ROBE/Saved/Config/Windows/Engine.ini]
+[2019.12.11-18.10.45:909][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Robert/Desktop/E1211ROBE_EXAM/E1211ROB/E1211ROBE/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Robert/Desktop/E1211ROBE_EXAM/E1211ROB/E1211ROBE/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Robert/Desktop/E1211ROBE_EXAM/E1211ROB/E1211ROBE/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Robert/Desktop/E1211ROBE_EXAM/E1211ROB/E1211ROBE/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Robert/Desktop/E1211ROBE_EXAM/E1211ROB/E1211ROBE/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.11-18.10.45:909][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.11-18.10.45:910][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.11-18.10.45:910][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.11-18.10.45:910][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.11-18.10.45:910][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.11-18.10.45:910][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.11-18.10.45:910][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Robert/Desktop/E1211ROBE_EXAM/E1211ROB/E1211ROBE/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-18.10.45:910][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.11-18.10.45:910][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.11-18.10.45:910][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.11-18.10.45:910][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.11-18.10.45:910][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.11-18.10.45:910][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.11-18.10.45:910][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.11-18.10.45:910][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.11-18.10.45:910][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.11-18.10.45:910][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.11-18.10.45:910][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.11-18.10.45:910][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.11-18.10.45:910][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.11-18.10.45:910][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Robert/Desktop/E1211ROBE_EXAM/E1211ROB/E1211ROBE/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-18.10.45:910][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.11-18.10.45:910][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.11-18.10.45:910][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.11-18.10.45:910][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.11-18.10.45:912][  0]LogHAL: Display: Platform has ~ 16 GB [17096003584 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.11-18.10.45:912][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.11-18.10.45:912][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Robert/Desktop/E1211ROBE_EXAM/E1211ROB/E1211ROBE/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-18.10.45:912][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.11-18.10.45:912][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.11-18.10.45:912][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Robert/Desktop/E1211ROBE_EXAM/E1211ROB/E1211ROBE/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-18.10.45:912][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Robert/Desktop/E1211ROBE_EXAM/E1211ROB/E1211ROBE/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Robert/Desktop/E1211ROBE_EXAM/E1211ROB/E1211ROBE/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Robert/Desktop/E1211ROBE_EXAM/E1211ROB/E1211ROBE/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Robert/Desktop/E1211ROBE_EXAM/E1211ROB/E1211ROBE/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.11-18.10.45:913][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.11-18.10.45:914][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Robert/Desktop/E1211ROBE_EXAM/E1211ROB/E1211ROBE/Saved/Config/Windows/Scalability.ini]
+[2019.12.11-18.10.45:914][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.11-18.10.45:914][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.11-18.10.45:914][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.11-18.10.45:914][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.11-18.10.45:914][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.11-18.10.45:914][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Robert/Desktop/E1211ROBE_EXAM/E1211ROB/E1211ROBE/Saved/Config/Windows/Engine.ini]
+[2019.12.11-18.10.45:914][  0]LogInit: Computer: MSI
+[2019.12.11-18.10.45:914][  0]LogInit: User: Robert
+[2019.12.11-18.10.45:914][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.12.11-18.10.45:914][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.11-18.10.45:914][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.12.11-18.10.45:914][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.11-18.10.45:914][  0]LogMemory: Process Physical Memory: 100.98 MB used, 100.99 MB peak
+[2019.12.11-18.10.45:914][  0]LogMemory: Process Virtual Memory: 100.54 MB used, 100.54 MB peak
+[2019.12.11-18.10.45:914][  0]LogMemory: Physical Memory: 12490.10 MB used,  3813.92 MB free, 16304.02 MB total
+[2019.12.11-18.10.45:914][  0]LogMemory: Virtual Memory: 4682.79 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2019.12.11-18.10.45:918][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.11-18.10.45:944][  0]LogInit: Using OS detected language (en-US).
+[2019.12.11-18.10.45:944][  0]LogInit: Using OS detected locale (en-CA).
+[2019.12.11-18.10.45:945][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.12.11-18.10.46:112][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.11-18.10.46:159][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.11-18.10.46:159][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.11-18.10.46:360][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.11-18.10.46:360][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.11-18.10.46:430][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.12.11-18.10.46:430][  0]LogD3D11RHI:       1979/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.12.11-18.10.46:443][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.12.11-18.10.46:443][  0]LogD3D11RHI:       128/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.12.11-18.10.46:445][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.11-18.10.46:445][  0]LogD3D11RHI:       0/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.11-18.10.46:445][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.11-18.10.46:477][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.11-18.10.46:477][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2019.12.11-18.10.46:477][  0]LogWindows: EnumDisplayDevices:
+[2019.12.11-18.10.46:477][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.12.11-18.10.46:478][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.12.11-18.10.46:478][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.12.11-18.10.46:478][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.12.11-18.10.46:478][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.12.11-18.10.46:478][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.12.11-18.10.46:478][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.12.11-18.10.46:478][  0]LogRHI: Texture pool is 1385 MB (70% of 1979 MB)
+[2019.12.11-18.10.46:525][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.11-18.10.46:537][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.11-18.10.46:886][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.11-18.10.46:896][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.11-18.10.46:906][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.11-18.10.46:915][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.11-18.10.46:925][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.11-18.10.46:935][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.11-18.10.46:944][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.11-18.10.46:954][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.11-18.10.46:959][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.11-18.10.46:992][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.11-18.10.46:992][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.11-18.10.46:993][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.11-18.10.46:993][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.11-18.10.46:993][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.11-18.10.46:993][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.11-18.10.46:993][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.11-18.10.46:993][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.11-18.10.46:993][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.11-18.10.46:993][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.11-18.10.46:993][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.11-18.10.46:993][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.11-18.10.46:993][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.11-18.10.46:993][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.11-18.10.46:993][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.11-18.10.46:993][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.11-18.10.46:993][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.11-18.10.46:993][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.11-18.10.46:994][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.11-18.10.47:012][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.11-18.10.47:012][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.11-18.10.47:027][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.11-18.10.47:027][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.11-18.10.47:035][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.11-18.10.47:043][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.11-18.10.47:050][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.11-18.10.47:058][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.11-18.10.47:082][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.11-18.10.47:082][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.11-18.10.47:082][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.11-18.10.47:094][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.11-18.10.47:155][  0]LogShaderCompilers: Guid format shader working directory is -26 characters bigger than the processId version (../../../../../../Users/Robert/Desktop/E1211ROBE_EXAM/E1211ROB/E1211ROBE/Intermediate/Shaders/WorkingDirectory/17008/).
+[2019.12.11-18.10.47:156][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Robert/AppData/Local/Temp/UnrealShaderWorkingDir/A9A5C6284B9D7ED7ED7C65A8D6A49F7A/'.
+[2019.12.11-18.10.47:159][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.11-18.10.47:159][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.11-18.10.47:159][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.11-18.10.47:792][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.11-18.10.47:846][  0]LogDerivedDataCache: Loaded boot cache 0.05s 76MB C:/Users/Robert/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.11-18.10.47:846][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Robert/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.11-18.10.47:846][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Robert/Desktop/E1211ROBE_EXAM/E1211ROB/E1211ROBE/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.11-18.10.47:846][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.11-18.10.47:846][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Robert/Desktop/E1211ROBE_EXAM/E1211ROB/E1211ROBE/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.11-18.10.47:846][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.11-18.10.47:858][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.11-18.10.47:858][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.11-18.10.47:858][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.11-18.10.47:860][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Robert/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.11-18.10.47:860][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.11-18.10.47:860][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.11-18.10.47:884][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.11-18.10.47:887][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.11-18.10.47:887][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.11-18.10.47:952][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2019.12.11-18.10.48:236][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.11-18.10.48:395][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.11-18.10.48:395][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.11-18.10.48:395][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.11-18.10.48:395][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.11-18.10.48:395][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.11-18.10.48:406][  0]LogNetVersion: E1211ROBE 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1111957907)
+[2019.12.11-18.10.48:926][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.072586 seconds
+[2019.12.11-18.10.48:934][  0]LogUObjectArray: 43445 objects as part of root set at end of initial load.
+[2019.12.11-18.10.48:934][  0]LogUObjectAllocator: 7548872 out of 0 bytes used by permanent object pool.
+[2019.12.11-18.10.48:934][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.11-18.10.49:898][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.11-18.10.49:901][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.11-18.10.50:487][  0]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.391 s
+[2019.12.11-18.10.50:487][  0]LogOutputDevice: Error: === Handled ensure: ===
+[2019.12.11-18.10.50:487][  0]LogOutputDevice: Error: 
+[2019.12.11-18.10.50:487][  0]LogOutputDevice: Error: Ensure condition failed: this->IsBound() [File:C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Delegates/DelegateSignatureImpl.inl] [Line: 1136]
+[2019.12.11-18.10.50:487][  0]LogOutputDevice: Error: Unable to bind delegate to 'OnOverlapBegin' (function might not be marked as a UFUNCTION or object may be pending kill)
+[2019.12.11-18.10.50:487][  0]LogOutputDevice: Error: Stack: 
+[2019.12.11-18.10.50:487][  0]LogOutputDevice: Error: [Callstack] 0x00007ffc3450f6f1 UE4Editor-E1211ROBE-7993.dll!DispatchCheckVerify<bool,<lambda_d3bdf8f7eb11dd76881fe2780fa75e7c> >() [c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\misc\assertionmacros.h:164]
+[2019.12.11-18.10.50:487][  0]LogOutputDevice: Error: [Callstack] 0x00007ffc345083eb UE4Editor-E1211ROBE-7993.dll!AEnergyDrink::AEnergyDrink() [c:\users\robert\desktop\e1211robe_exam\e1211rob\e1211robe\source\e1211robe\energydrink.cpp:25]
+[2019.12.11-18.10.50:487][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbfd170865 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.11-18.10.50:487][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbfd3e3d1a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.11-18.10.50:487][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbfd3c2106 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.11-18.10.50:487][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbfd2f4e95 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.11-18.10.50:487][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbd86183f7 UE4Editor-Core.dll!UnknownFunction []
+[2019.12.11-18.10.50:487][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbd8630ceb UE4Editor-Core.dll!UnknownFunction []
+[2019.12.11-18.10.50:487][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbfd908fa7 UE4Editor-Projects.dll!UnknownFunction []
+[2019.12.11-18.10.50:487][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbfd909299 UE4Editor-Projects.dll!UnknownFunction []
+[2019.12.11-18.10.50:487][  0]LogOutputDevice: Error: [Callstack] 0x00007ff74b76da01 UE4Editor.exe!UnknownFunction []
+[2019.12.11-18.10.50:487][  0]LogOutputDevice: Error: [Callstack] 0x00007ff74b7749f1 UE4Editor.exe!UnknownFunction []
+[2019.12.11-18.10.50:487][  0]LogOutputDevice: Error: [Callstack] 0x00007ff74b76a667 UE4Editor.exe!UnknownFunction []
+[2019.12.11-18.10.50:487][  0]LogOutputDevice: Error: [Callstack] 0x00007ff74b76a9fa UE4Editor.exe!UnknownFunction []
+[2019.12.11-18.10.50:487][  0]LogOutputDevice: Error: [Callstack] 0x00007ff74b77b92c UE4Editor.exe!UnknownFunction []
+[2019.12.11-18.10.50:487][  0]LogOutputDevice: Error: [Callstack] 0x00007ff74b77e60e UE4Editor.exe!UnknownFunction []
+[2019.12.11-18.10.50:487][  0]LogOutputDevice: Error: [Callstack] 0x00007ffc39937974 KERNEL32.DLL!UnknownFunction []
+[2019.12.11-18.10.50:487][  0]LogOutputDevice: Error: [Callstack] 0x00007ffc3bd9a271 ntdll.dll!UnknownFunction []
+[2019.12.11-18.10.50:487][  0]LogOutputDevice: Error: 
+[2019.12.11-18.10.50:499][  0]LogStats:                SubmitErrorReport -  0.000 s
+[2019.12.11-18.10.50:922][  0]LogStats:                    SendNewReport -  0.423 s
+[2019.12.11-18.10.50:922][  0]LogStats:             FDebug::EnsureFailed -  0.826 s
+[2019.12.11-18.10.50:956][  0]SourceControl: Source control is disabled
+[2019.12.11-18.10.50:956][  0]SourceControl: Source control is disabled
+[2019.12.11-18.10.50:958][  0]SourceControl: Source control is disabled
+[2019.12.11-18.10.50:959][  0]SourceControl: Source control is disabled
+[2019.12.11-18.10.51:055][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.11-18.10.51:175][  0]LogOcInput: OculusInput pre-init called
+[2019.12.11-18.10.51:181][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.11-18.10.51:181][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.11-18.10.51:255][  0]LogEngine: Initializing Engine...
+[2019.12.11-18.10.51:255][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.11-18.10.51:256][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.11-18.10.51:550][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.11-18.10.51:573][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.11-18.10.51:705][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-18.10.51:719][  0]LogInit: FAudioDevice initialized.
+[2019.12.11-18.10.51:720][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.11-18.10.51:771][  0]LogDerivedDataCache: Saved boot cache 0.05s 76MB C:/Users/Robert/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.11-18.10.51:779][  0]LogInit: Texture streaming: Enabled
+[2019.12.11-18.10.51:806][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.11-18.10.51:917][  0]LogInit: Transaction tracking system initialized
+[2019.12.11-18.10.51:969][  0]BlueprintLog: New page: Editor Load
+[2019.12.11-18.10.52:094][  0]LocalizationService: Localization service is disabled
+[2019.12.11-18.10.52:451][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Robert/Desktop/E1211ROBE_EXAM/E1211ROB/E1211ROBE/Content/' took 0.01s
+[2019.12.11-18.10.52:452][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.11-18.10.52:452][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.11-18.10.52:758][  0]SourceControl: Source control is disabled
+[2019.12.11-18.10.52:758][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Robert/Desktop/E1211ROBE_EXAM/E1211ROB/E1211ROBE/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.11-18.10.52:758][  0]LightingResults: New page: Lighting Build
+[2019.12.11-18.10.52:762][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-18.10.52:762][  0]MapCheck: New page: Map Check
+[2019.12.11-18.10.52:762][  0]LightingResults: New page: Lighting Build
+[2019.12.11-18.10.52:790][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2019.12.11-18.10.52:966][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.12.11-18.10.52:974][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.11-18.10.53:005][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2019.12.11-18.10.53:005][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.11-18.10.53:005][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.208ms to complete.
+[2019.12.11-18.10.53:005][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.247
+[2019.12.11-18.10.53:148][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-18.10.53:155][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-18.10.53:163][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-18.10.53:170][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-18.10.53:183][  0]LogCollectionManager: Loaded 0 collections in 0.002453 seconds
+[2019.12.11-18.10.53:192][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Robert/Desktop/E1211ROBE_EXAM/E1211ROB/E1211ROBE/Saved/Collections/' took 0.00s
+[2019.12.11-18.10.53:192][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Robert/Desktop/E1211ROBE_EXAM/E1211ROB/E1211ROBE/Content/Developers/Robert/Collections/' took 0.00s
+[2019.12.11-18.10.53:192][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Robert/Desktop/E1211ROBE_EXAM/E1211ROB/E1211ROBE/Content/Collections/' took 0.00s
+[2019.12.11-18.10.53:192][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.12.11-18.10.53:201][  0]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2870 classes and 682 folders.
+[2019.12.11-18.10.53:212][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.12.11-18.10.53:809][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.12.11-18.10.53:816][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.12.11-18.10.53:898][  0]LogSlate: Took 0.000267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.11-18.10.53:901][  0]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.11-18.10.53:912][  0]LogSlate: Took 0.005755 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.11-18.10.54:017][  0]LogRenderer: Reallocating scene render targets to support 988x456 Format 10 NumSamples 1 (Frame:1).
+[2019.12.11-18.10.54:250][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.12.11-18.10.54:250][  0]LogLoad: (Engine Initialization) Total time: 9.74 seconds
+[2019.12.11-18.10.54:250][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.11-18.10.54:269][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-18.10.54:305][  0]LogAssetRegistry: Asset discovery search completed in 6.3537 seconds
+[2019.12.11-18.10.54:309][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2019.12.11-18.10.54:309][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000057 seconds (updated 0 objects)
+[2019.12.11-18.10.54:310][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.11-18.10.54:348][  0]LogSlate: Took 0.006100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.11-18.11.09:848][314]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.11-18.11.09:856][314]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/FirstPersonCPP/Blueprints/BP_Energy.BP_Energy
+[2019.12.11-18.11.10:151][314]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2019.12.11-18.11.11:328][314]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.11-18.11.16:983][649]LogAssetEditorManager: Opening Asset editor for Class /Script/E1211ROBE.EnergyDrink
+[2019.12.11-18.11.37:835][ 70]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.12.11-18.11.46:778][603]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonCPP/Blueprints/BP_EDrink.BP_EDrink
+[2019.12.11-18.11.49:288][721]LogRenderer: Reallocating scene render targets to support 988x540 Format 10 NumSamples 1 (Frame:1).
+[2019.12.11-18.11.49:568][730]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.11-18.12.07:174][651]BlueprintLog: New page: Compile BP_EDrink
+[2019.12.11-18.12.07:551][651]LogUObjectHash: Compacting FUObjectHashTables data took   6.86ms
+[2019.12.11-18.12.17:741][238]LogAssetEditorManager: Opening Asset editor for Material /Game/FirstPersonCPP/Blueprints/Drink.Drink
+[2019.12.11-18.12.17:747][238]LogMaterial: Display: Missing cached shader map for material Drink, compiling. 
+[2019.12.11-18.12.18:178][238]LogMaterial: Display: Missing cached shader map for material Drink, compiling. 
+[2019.12.11-18.12.18:199][238]LogMaterial: Display: Missing cached shader map for material Drink, compiling. 
+[2019.12.11-18.12.18:256][238]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.12.11-18.12.18:256][238]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2019.12.11-18.12.18:256][238]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2019.12.11-18.12.18:256][238]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2019.12.11-18.12.18:821][257]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2019.12.11-18.12.18:839][258]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2019.12.11-18.12.18:955][265]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2019.12.11-18.12.18:972][266]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2019.12.11-18.12.19:173][278]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2019.12.11-18.12.19:239][282]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2019.12.11-18.12.19:274][284]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2019.12.11-18.12.19:373][290]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2019.12.11-18.12.19:542][300]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2019.12.11-18.12.19:954][324]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2019.12.11-18.12.20:108][333]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2019.12.11-18.12.20:181][337]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2019.12.11-18.12.20:459][353]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.12.11-18.12.20:582][359]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.12.11-18.12.20:996][383]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2019.12.11-18.12.21:074][388]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2019.12.11-18.12.21:089][389]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.12.11-18.12.21:691][424]LogMaterial: Display: Missing cached shader map for material Drink, compiling. 
+[2019.12.11-18.12.21:707][424]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.11-18.12.21:743][425]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.12.11-18.12.21:743][425]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2019.12.11-18.12.21:743][425]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2019.12.11-18.12.21:743][425]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2019.12.11-18.12.22:151][448]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.12.11-18.12.22:151][448]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2019.12.11-18.12.22:169][449]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2019.12.11-18.12.22:284][456]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2019.12.11-18.12.22:476][467]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2019.12.11-18.12.22:577][473]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2019.12.11-18.12.22:594][474]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2019.12.11-18.12.22:641][477]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2019.12.11-18.12.22:810][487]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2019.12.11-18.12.23:116][505]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2019.12.11-18.12.23:500][523]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2019.12.11-18.12.23:518][524]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2019.12.11-18.12.23:691][534]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2019.12.11-18.12.24:058][555]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2019.12.11-18.12.24:202][562]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2019.12.11-18.12.24:373][572]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2019.12.11-18.12.24:600][585]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2019.12.11-18.12.24:753][594]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2019.12.11-18.12.24:883][601]LogMaterial: Display: Missing cached shader map for material Drink, compiling. 
+[2019.12.11-18.12.24:914][601]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.11-18.12.25:033][607]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2019.12.11-18.12.25:053][608]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2019.12.11-18.12.25:133][612]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2019.12.11-18.12.25:413][627]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2019.12.11-18.12.25:463][630]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2019.12.11-18.12.25:511][633]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2019.12.11-18.12.25:558][636]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2019.12.11-18.12.25:798][650]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2019.12.11-18.12.25:847][653]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2019.12.11-18.12.25:893][656]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.12.11-18.12.25:927][658]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2019.12.11-18.12.25:961][660]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2019.12.11-18.12.26:150][671]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2019.12.11-18.12.26:312][680]LogMaterial: Display: Missing cached shader map for material Drink, compiling. 
+[2019.12.11-18.12.26:348][680]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.11-18.12.26:397][682]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2019.12.11-18.12.26:648][696]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2019.12.11-18.12.26:718][700]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2019.12.11-18.12.26:802][705]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2019.12.11-18.12.26:917][712]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2019.12.11-18.12.27:016][718]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2019.12.11-18.12.27:095][722]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2019.12.11-18.12.27:095][722]LogMaterial: Display: Missing cached shader map for material Drink, compiling. 
+[2019.12.11-18.12.27:125][722]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.11-18.12.27:184][725]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2019.12.11-18.12.27:272][730]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2019.12.11-18.12.27:409][738]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2019.12.11-18.12.27:619][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2019.12.11-18.12.27:725][756]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2019.12.11-18.12.27:725][756]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2019.12.11-18.12.27:838][763]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2019.12.11-18.12.27:881][765]LogMaterial: Display: Missing cached shader map for material Drink, compiling. 
+[2019.12.11-18.12.27:907][765]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.11-18.12.27:916][765]LogSlate: Window 'Color Picker' being destroyed
+[2019.12.11-18.12.28:098][774]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2019.12.11-18.12.28:132][776]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2019.12.11-18.12.28:183][779]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2019.12.11-18.12.28:266][784]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2019.12.11-18.12.28:548][799]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2019.12.11-18.12.28:564][800]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2019.12.11-18.12.28:583][801]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2019.12.11-18.12.28:782][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2019.12.11-18.12.28:917][820]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2019.12.11-18.12.28:964][823]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2019.12.11-18.12.28:981][824]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2019.12.11-18.12.29:010][826]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2019.12.11-18.12.29:218][838]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2019.12.11-18.12.29:433][851]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2019.12.11-18.12.29:460][852]LogMaterial: Display: Missing cached shader map for material Drink, compiling. 
+[2019.12.11-18.12.29:525][852]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2019.12.11-18.12.29:629][856]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2019.12.11-18.12.29:728][862]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2019.12.11-18.12.29:934][873]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2019.12.11-18.12.30:090][882]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2019.12.11-18.12.30:174][887]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2019.12.11-18.12.30:278][893]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2019.12.11-18.12.30:400][900]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2019.12.11-18.12.30:490][905]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2019.12.11-18.12.30:609][912]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2019.12.11-18.12.30:692][917]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2019.12.11-18.12.30:696][917]LogMaterialEditor: Saving and Compiling material Drink
+[2019.12.11-18.12.31:276][917]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2019.12.11-18.12.31:277][917]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2019.12.11-18.12.31:277][917]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2019.12.11-18.12.31:277][917]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2019.12.11-18.12.31:277][917]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2019.12.11-18.12.31:302][917]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2019.12.11-18.12.31:302][917]LogMaterial: Display: Missing cached shader map for material Drink, compiling. 
+[2019.12.11-18.12.31:370][917]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2019.12.11-18.12.31:409][917]LogMaterial: Display: Missing cached shader map for material Drink, compiling. 
+[2019.12.11-18.12.31:435][917]LogMaterial: Display: Missing cached shader map for material Drink, compiling. 
+[2019.12.11-18.12.31:511][917]LogUObjectHash: Compacting FUObjectHashTables data took   5.96ms
+[2019.12.11-18.12.31:525][917]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.12.11-18.12.33:663][917]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 47
+[2019.12.11-18.12.33:663][917]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 46
+[2019.12.11-18.12.33:663][917]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 45
+[2019.12.11-18.12.33:663][917]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 44
+[2019.12.11-18.12.33:663][917]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 43
+[2019.12.11-18.12.33:663][917]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 42
+[2019.12.11-18.12.33:663][917]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 41
+[2019.12.11-18.12.33:663][917]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 40
+[2019.12.11-18.12.33:663][917]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2019.12.11-18.12.33:663][917]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 38
+[2019.12.11-18.12.33:663][917]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 37
+[2019.12.11-18.12.33:663][917]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 36
+[2019.12.11-18.12.33:663][917]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 35
+[2019.12.11-18.12.33:663][917]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2019.12.11-18.12.33:663][917]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 33
+[2019.12.11-18.12.33:663][917]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2019.12.11-18.12.33:663][917]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 31
+[2019.12.11-18.12.33:663][917]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 30
+[2019.12.11-18.12.33:663][917]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 29
+[2019.12.11-18.12.33:663][917]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2019.12.11-18.12.33:663][917]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 27
+[2019.12.11-18.12.33:663][917]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2019.12.11-18.12.33:663][917]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2019.12.11-18.12.33:663][917]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2019.12.11-18.12.33:663][917]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2019.12.11-18.12.33:663][917]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2019.12.11-18.12.33:663][917]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.12.11-18.12.33:663][917]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2019.12.11-18.12.33:663][917]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2019.12.11-18.12.33:665][917]TextureStreamingBuild: Display: Compiling optional shaders took 2.154 seconds.
+[2019.12.11-18.12.33:717][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2019.12.11-18.12.35:404][917]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2019.12.11-18.12.35:404][917]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2019.12.11-18.12.35:404][917]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2019.12.11-18.12.35:404][917]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2019.12.11-18.12.35:560][917]LogSavePackage: Moving '../../../../../../Users/Robert/Desktop/E1211ROBE_EXAM/E1211ROB/E1211ROBE/Saved/Drink7721973A44EE24603A7197A6C8EACB11.tmp' to '../../../../../../Users/Robert/Desktop/E1211ROBE_EXAM/E1211ROB/E1211ROBE/Content/FirstPersonCPP/Blueprints/Drink.uasset'
+[2019.12.11-18.12.35:600][917]MaterialEditorStats: Base pass shader: 118 instructions
+[2019.12.11-18.12.35:600][917]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2019.12.11-18.12.35:600][917]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.12.11-18.12.35:600][917]MaterialEditorStats: Texture samplers: 3/16
+[2019.12.11-18.12.43:078][363]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-18.13.09:872][816]BlueprintLog: New page: Compile BP_EDrink
+[2019.12.11-18.13.10:157][816]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2019.12.11-18.13.14:826][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.11-18.13.14:910][ 79]Candidate modules for hot reload:
+[2019.12.11-18.13.14:910][ 79]  E1211ROBE
+[2019.12.11-18.13.14:910][ 79]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=E1211ROBE,1648 Win64 Development -TargetType=Editor -Project="C:/Users/Robert/Desktop/E1211ROBE_EXAM/E1211ROB/E1211ROBE/E1211ROBE.uproject" "C:/Users/Robert/Desktop/E1211ROBE_EXAM/E1211ROB/E1211ROBE/E1211ROBE.uproject"  -IgnoreJunk]
+[2019.12.11-18.13.14:912][ 79]Warning: Starting HotReload took  0.0s.
+[2019.12.11-18.13.55:969][537]CompilerResultsLog: New page: Compilation - Dec 11, 2019, 8:13:55 AM
+[2019.12.11-18.13.55:969][537]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Robert\Desktop\E1211ROBE_EXAM\E1211ROB).
+[2019.12.11-18.13.55:969][537]CompilerResultsLog: Parsing headers for E1211ROBEEditor
+[2019.12.11-18.13.55:969][537]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Robert\Desktop\E1211ROBE_EXAM\E1211ROB\E1211ROBE\E1211ROBE.uproject" "C:\Users\Robert\Desktop\E1211ROBE_EXAM\E1211ROB\E1211ROBE\Intermediate\Build\Win64\E1211ROBEEditor\Development\E1211ROBEEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.11-18.13.55:969][537]CompilerResultsLog: Reflection code generated for E1211ROBEEditor in 7.8168464 seconds
+[2019.12.11-18.13.55:969][537]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.11-18.13.55:969][537]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.12.11-18.13.55:969][537]CompilerResultsLog:   [1/4] EnergyDrink.cpp
+[2019.12.11-18.13.55:969][537]CompilerResultsLog:   [2/4] UE4Editor-E1211ROBE-1648.lib
+[2019.12.11-18.13.55:969][537]CompilerResultsLog:      Creating library C:\Users\Robert\Desktop\E1211ROBE_EXAM\E1211ROB\E1211ROBE\Intermediate\Build\Win64\UE4Editor\Development\E1211ROBE\UE4Editor-E1211ROBE-1648.lib and object C:\Users\Robert\Desktop\E1211ROBE_EXAM\E1211ROB\E1211ROBE\Intermediate\Build\Win64\UE4Editor\Development\E1211ROBE\UE4Editor-E1211ROBE-1648.exp
+[2019.12.11-18.13.55:969][537]CompilerResultsLog:   [3/4] UE4Editor-E1211ROBE-1648.dll
+[2019.12.11-18.13.55:969][537]CompilerResultsLog:      Creating library C:\Users\Robert\Desktop\E1211ROBE_EXAM\E1211ROB\E1211ROBE\Intermediate\Build\Win64\UE4Editor\Development\E1211ROBE\UE4Editor-E1211ROBE-1648.suppressed.lib and object C:\Users\Robert\Desktop\E1211ROBE_EXAM\E1211ROB\E1211ROBE\Intermediate\Build\Win64\UE4Editor\Development\E1211ROBE\UE4Editor-E1211ROBE-1648.suppressed.exp
+[2019.12.11-18.13.55:969][537]CompilerResultsLog:   [4/4] E1211ROBEEditor.target
+[2019.12.11-18.13.55:969][537]CompilerResultsLog: Total time in Parallel executor: 31.74 seconds
+[2019.12.11-18.13.55:969][537]CompilerResultsLog: Total execution time: 40.94 seconds
+[2019.12.11-18.13.55:969][537]LogMainFrame: MainFrame: Module compiling took 41.063 seconds
+[2019.12.11-18.13.56:015][537]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2019.12.11-18.13.56:078][537]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.12.11-18.13.56:448][537]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.369 s
+[2019.12.11-18.13.56:448][537]LogOutputDevice: Error: === Handled ensure: ===
+[2019.12.11-18.13.56:448][537]LogOutputDevice: Error: 
+[2019.12.11-18.13.56:448][537]LogOutputDevice: Error: Ensure condition failed: this->IsBound() [File:C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Delegates/DelegateSignatureImpl.inl] [Line: 1136]
+[2019.12.11-18.13.56:448][537]LogOutputDevice: Error: Unable to bind delegate to 'OnOverlapBegin' (function might not be marked as a UFUNCTION or object may be pending kill)
+[2019.12.11-18.13.56:448][537]LogOutputDevice: Error: Stack: 
+[2019.12.11-18.13.56:448][537]LogOutputDevice: Error: [Callstack] 0x00007ffc2b9cf6f1 UE4Editor-E1211ROBE-1648.dll!DispatchCheckVerify<bool,<lambda_d3bdf8f7eb11dd76881fe2780fa75e7c> >() [c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\misc\assertionmacros.h:164]
+[2019.12.11-18.13.56:448][537]LogOutputDevice: Error: [Callstack] 0x00007ffc2b9c83eb UE4Editor-E1211ROBE-1648.dll!AEnergyDrink::AEnergyDrink() [c:\users\robert\desktop\e1211robe_exam\e1211rob\e1211robe\source\e1211robe\energydrink.cpp:25]
+[2019.12.11-18.13.56:448][537]LogOutputDevice: Error: [Callstack] 0x00007ffbbfe44061 UE4Editor-HotReload.dll!UnknownFunction []
+[2019.12.11-18.13.56:448][537]LogOutputDevice: Error: [Callstack] 0x00007ffbbfe3541a UE4Editor-HotReload.dll!UnknownFunction []
+[2019.12.11-18.13.56:448][537]LogOutputDevice: Error: [Callstack] 0x00007ffbbfe3c48d UE4Editor-HotReload.dll!UnknownFunction []
+[2019.12.11-18.13.56:448][537]LogOutputDevice: Error: [Callstack] 0x00007ffbbfe467d9 UE4Editor-HotReload.dll!UnknownFunction []
+[2019.12.11-18.13.56:448][537]LogOutputDevice: Error: [Callstack] 0x00007ffbbfe46b64 UE4Editor-HotReload.dll!UnknownFunction []
+[2019.12.11-18.13.56:448][537]LogOutputDevice: Error: [Callstack] 0x00007ffbbfe3f3d6 UE4Editor-HotReload.dll!UnknownFunction []
+[2019.12.11-18.13.56:448][537]LogOutputDevice: Error: [Callstack] 0x00007ffbfd0dac6b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.11-18.13.56:448][537]LogOutputDevice: Error: [Callstack] 0x00007ffbfd3e1aa7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.11-18.13.56:448][537]LogOutputDevice: Error: [Callstack] 0x00007ffbfd3c2221 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.11-18.13.56:448][537]LogOutputDevice: Error: [Callstack] 0x00007ffbfd2f4e95 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.11-18.13.56:448][537]LogOutputDevice: Error: [Callstack] 0x00007ffbd86183f7 UE4Editor-Core.dll!UnknownFunction []
+[2019.12.11-18.13.56:448][537]LogOutputDevice: Error: [Callstack] 0x00007ffbd8630ceb UE4Editor-Core.dll!UnknownFunction []
+[2019.12.11-18.13.56:448][537]LogOutputDevice: Error: [Callstack] 0x00007ffbd862fe83 UE4Editor-Core.dll!UnknownFunction []
+[2019.12.11-18.13.56:448][537]LogOutputDevice: Error: [Callstack] 0x00007ffbbfe3d5c3 UE4Editor-HotReload.dll!UnknownFunction []
+[2019.12.11-18.13.56:448][537]LogOutputDevice: Error: [Callstack] 0x00007ffbbfe3b267 UE4Editor-HotReload.dll!UnknownFunction []
+[2019.12.11-18.13.56:448][537]LogOutputDevice: Error: [Callstack] 0x00007ffbbfe3bc86 UE4Editor-HotReload.dll!UnknownFunction []
+[2019.12.11-18.13.56:448][537]LogOutputDevice: Error: [Callstack] 0x00007ffbbfe4c48f UE4Editor-HotReload.dll!UnknownFunction []
+[2019.12.11-18.13.56:448][537]LogOutputDevice: Error: [Callstack] 0x00007ffbd83c382d UE4Editor-Core.dll!UnknownFunction []
+[2019.12.11-18.13.56:448][537]LogOutputDevice: Error: [Callstack] 0x00007ff74b75a93e UE4Editor.exe!UnknownFunction []
+[2019.12.11-18.13.56:448][537]LogOutputDevice: Error: [Callstack] 0x00007ff74b76a91c UE4Editor.exe!UnknownFunction []
+[2019.12.11-18.13.56:448][537]LogOutputDevice: Error: [Callstack] 0x00007ff74b76a9fa UE4Editor.exe!UnknownFunction []
+[2019.12.11-18.13.56:448][537]LogOutputDevice: Error: [Callstack] 0x00007ff74b77b92c UE4Editor.exe!UnknownFunction []
+[2019.12.11-18.13.56:448][537]LogOutputDevice: Error: [Callstack] 0x00007ff74b77e60e UE4Editor.exe!UnknownFunction []
+[2019.12.11-18.13.56:448][537]LogOutputDevice: Error: [Callstack] 0x00007ffc39937974 KERNEL32.DLL!UnknownFunction []
+[2019.12.11-18.13.56:448][537]LogOutputDevice: Error: [Callstack] 0x00007ffc3bd9a271 ntdll.dll!UnknownFunction []
+[2019.12.11-18.13.56:448][537]LogOutputDevice: Error: 
+[2019.12.11-18.13.56:450][537]LogStats:                SubmitErrorReport -  0.000 s
+[2019.12.11-18.13.57:278][537]LogStats:                    SendNewReport -  0.829 s
+[2019.12.11-18.13.57:278][537]LogStats:             FDebug::EnsureFailed -  1.200 s
+[2019.12.11-18.13.57:280][537]LogContentBrowser: Native class hierarchy updated for 'E1211ROBE' in 0.0004 seconds. Added 7 classes and 2 folders.
+[2019.12.11-18.13.57:288][537]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2019.12.11-18.13.57:417][537]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2019.12.11-18.13.57:434][537]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2871 classes and 684 folders.
+[2019.12.11-18.13.57:436][537]Display: HotReload took 42.5s.
+[2019.12.11-18.14.03:128][855]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-18.14.03:156][855]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.11-18.14.03:156][855]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-18.14.03:157][855]PIE: New page: PIE session: FirstPersonExampleMap (Dec 11, 2019, 8:14:03 AM)
+[2019.12.11-18.14.03:159][855]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.11-18.14.03:160][855]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.11-18.14.03:174][855]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2019.12.11-18.14.03:192][855]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2019.12.11-18.14.03:209][855]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2019.12.11-18.14.03:209][855]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.12.11-18.14.03:209][855]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.12.11-18.14.03:209][855]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.12.11-18.14.03:230][855]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069936s)
+[2019.12.11-18.14.03:232][855]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.12.11-18.14.03:232][855]LogPlayLevel: PIE: World Init took: (0.002001s)
+[2019.12.11-18.14.03:232][855]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.072269s)
+[2019.12.11-18.14.03:373][855]LogUObjectHash: Compacting FUObjectHashTables data took   9.00ms
+[2019.12.11-18.14.03:385][855]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-18.14.03:395][855]LogInit: FAudioDevice initialized.
+[2019.12.11-18.14.03:408][855]LogLoad: Game class is 'E1211ROBEGameMode'
+[2019.12.11-18.14.03:412][855]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.12.11-13.14.03
+[2019.12.11-18.14.03:413][855]LogWorld: Bringing up level for play took: 0.004181
+[2019.12.11-18.14.03:413][855]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2019.12.11-18.14.03:466][855]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2019.12.11-18.14.03:468][855]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap -0.16
+[2019.12.11-18.14.03:468][855]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.11-18.14.04:933][913]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2019.12.11-18.14.05:134][925]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2019.12.11-18.14.05:639][955]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2019.12.11-18.14.06:531][  8]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2019.12.11-18.14.06:818][ 25]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2019.12.11-18.14.07:121][ 43]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.12.11-18.14.07:251][ 51]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.12.11-18.14.07:652][ 75]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2019.12.11-18.14.09:562][189]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.11-18.14.09:563][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-18.14.09:563][189]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.11-18.14.09:563][189]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-18.14.09:574][189]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-18.14.09:574][189]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.11-18.14.09:640][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-18.14.09:687][189]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2019.12.11-18.14.09:706][190]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.12.11-18.14.16:316][488]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.11-18.14.18:465][532]LogSavePackage: Moving '../../../../../../Users/Robert/Desktop/E1211ROBE_EXAM/E1211ROB/E1211ROBE/Saved/BP_EDrink26AC9CC84B866BC712AB92BE257C9C4D.tmp' to '../../../../../../Users/Robert/Desktop/E1211ROBE_EXAM/E1211ROB/E1211ROBE/Content/FirstPersonCPP/Blueprints/BP_EDrink.uasset'
+[2019.12.11-18.14.24:568][875]LogAssetEditorManager: Opening Asset editor for Class /Script/E1211ROBE.E1211ROBEProjectile
+[2019.12.11-18.14.28:697][930]LogAssetEditorManager: Opening Asset editor for Class /Script/E1211ROBE.EnergyDrink
+[2019.12.11-18.14.56:684][ 78]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-18.14.56:707][ 78]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.11-18.14.56:707][ 78]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-18.14.56:707][ 78]PIE: New page: PIE session: FirstPersonExampleMap (Dec 11, 2019, 8:14:56 AM)
+[2019.12.11-18.14.56:708][ 78]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.11-18.14.56:722][ 78]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2019.12.11-18.14.56:741][ 78]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2019.12.11-18.14.56:756][ 78]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2019.12.11-18.14.56:756][ 78]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.12.11-18.14.56:756][ 78]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.12.11-18.14.56:756][ 78]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.12.11-18.14.56:761][ 78]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052847s)
+[2019.12.11-18.14.56:762][ 78]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.12.11-18.14.56:763][ 78]LogPlayLevel: PIE: World Init took: (0.001856s)
+[2019.12.11-18.14.56:763][ 78]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.054900s)
+[2019.12.11-18.14.56:837][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   8.28ms
+[2019.12.11-18.14.56:850][ 78]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-18.14.56:867][ 78]LogInit: FAudioDevice initialized.
+[2019.12.11-18.14.56:874][ 78]LogLoad: Game class is 'E1211ROBEGameMode'
+[2019.12.11-18.14.56:877][ 78]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.12.11-13.14.56
+[2019.12.11-18.14.56:878][ 78]LogWorld: Bringing up level for play took: 0.002824
+[2019.12.11-18.14.56:878][ 78]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2019.12.11-18.14.56:881][ 78]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap -0.748
+[2019.12.11-18.14.56:881][ 78]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.11-18.14.57:863][136]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.11-18.14.57:863][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-18.14.57:863][136]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.11-18.14.57:864][136]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-18.14.57:877][136]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-18.14.57:877][136]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.11-18.14.57:941][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-18.14.57:950][136]LogUObjectHash: Compacting FUObjectHashTables data took   6.97ms
+[2019.12.11-18.14.57:984][137]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.12.11-18.14.58:641][170]Candidate modules for hot reload:
+[2019.12.11-18.14.58:641][170]  E1211ROBE
+[2019.12.11-18.14.58:641][170]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=E1211ROBE,5137 Win64 Development -TargetType=Editor -Project="C:/Users/Robert/Desktop/E1211ROBE_EXAM/E1211ROB/E1211ROBE/E1211ROBE.uproject" "C:/Users/Robert/Desktop/E1211ROBE_EXAM/E1211ROB/E1211ROBE/E1211ROBE.uproject"  -IgnoreJunk]
+[2019.12.11-18.14.58:645][170]Warning: Starting HotReload took  0.1s.
+[2019.12.11-18.14.59:402][196]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2019.12.11-18.14.59:760][216]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2019.12.11-18.15.00:460][257]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2019.12.11-18.15.02:323][365]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2019.12.11-18.15.02:424][371]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2019.12.11-18.15.02:936][401]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2019.12.11-18.15.03:075][409]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2019.12.11-18.15.03:569][438]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.12.11-18.15.22:795][944]CompilerResultsLog: New page: Compilation - Dec 11, 2019, 8:15:22 AM
+[2019.12.11-18.15.22:795][944]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Robert\Desktop\E1211ROBE_EXAM\E1211ROB).
+[2019.12.11-18.15.22:795][944]CompilerResultsLog: Parsing headers for E1211ROBEEditor
+[2019.12.11-18.15.22:795][944]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Robert\Desktop\E1211ROBE_EXAM\E1211ROB\E1211ROBE\E1211ROBE.uproject" "C:\Users\Robert\Desktop\E1211ROBE_EXAM\E1211ROB\E1211ROBE\Intermediate\Build\Win64\E1211ROBEEditor\Development\E1211ROBEEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.11-18.15.22:795][944]CompilerResultsLog: Reflection code generated for E1211ROBEEditor in 9.2337656 seconds
+[2019.12.11-18.15.22:795][944]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.11-18.15.22:796][944]CompilerResultsLog: Building 4 actions with 8 processes...
+[2019.12.11-18.15.22:796][944]CompilerResultsLog:   [1/4] EnergyDrink.cpp
+[2019.12.11-18.15.22:796][944]CompilerResultsLog:   [2/4] UE4Editor-E1211ROBE-5137.lib
+[2019.12.11-18.15.22:796][944]CompilerResultsLog:      Creating library C:\Users\Robert\Desktop\E1211ROBE_EXAM\E1211ROB\E1211ROBE\Intermediate\Build\Win64\UE4Editor\Development\E1211ROBE\UE4Editor-E1211ROBE-5137.lib and object C:\Users\Robert\Desktop\E1211ROBE_EXAM\E1211ROB\E1211ROBE\Intermediate\Build\Win64\UE4Editor\Development\E1211ROBE\UE4Editor-E1211ROBE-5137.exp
+[2019.12.11-18.15.22:796][944]CompilerResultsLog:   [3/4] UE4Editor-E1211ROBE-5137.dll
+[2019.12.11-18.15.22:796][944]CompilerResultsLog:      Creating library C:\Users\Robert\Desktop\E1211ROBE_EXAM\E1211ROB\E1211ROBE\Intermediate\Build\Win64\UE4Editor\Development\E1211ROBE\UE4Editor-E1211ROBE-5137.suppressed.lib and object C:\Users\Robert\Desktop\E1211ROBE_EXAM\E1211ROB\E1211ROBE\Intermediate\Build\Win64\UE4Editor\Development\E1211ROBE\UE4Editor-E1211ROBE-5137.suppressed.exp
+[2019.12.11-18.15.22:796][944]CompilerResultsLog:   [4/4] E1211ROBEEditor.target
+[2019.12.11-18.15.22:796][944]CompilerResultsLog: Total time in Parallel executor: 13.04 seconds
+[2019.12.11-18.15.22:796][944]CompilerResultsLog: Total execution time: 24.01 seconds
+[2019.12.11-18.15.22:796][944]LogMainFrame: MainFrame: Module compiling took 24.158 seconds
+[2019.12.11-18.15.22:843][944]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2019.12.11-18.15.22:896][944]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.12.11-18.15.23:286][944]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.390 s
+[2019.12.11-18.15.23:286][944]LogOutputDevice: Error: === Handled ensure: ===
+[2019.12.11-18.15.23:286][944]LogOutputDevice: Error: 
+[2019.12.11-18.15.23:286][944]LogOutputDevice: Error: Ensure condition failed: this->IsBound() [File:C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Delegates/DelegateSignatureImpl.inl] [Line: 1136]
+[2019.12.11-18.15.23:286][944]LogOutputDevice: Error: Unable to bind delegate to 'OnOverlapBegin' (function might not be marked as a UFUNCTION or object may be pending kill)
+[2019.12.11-18.15.23:286][944]LogOutputDevice: Error: Stack: 
+[2019.12.11-18.15.23:286][944]LogOutputDevice: Error: [Callstack] 0x00007ffc1ccbf6f1 UE4Editor-E1211ROBE-5137.dll!DispatchCheckVerify<bool,<lambda_d3bdf8f7eb11dd76881fe2780fa75e7c> >() [c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\misc\assertionmacros.h:164]
+[2019.12.11-18.15.23:286][944]LogOutputDevice: Error: [Callstack] 0x00007ffc1ccb83eb UE4Editor-E1211ROBE-5137.dll!AEnergyDrink::AEnergyDrink() [c:\users\robert\desktop\e1211robe_exam\e1211rob\e1211robe\source\e1211robe\energydrink.cpp:25]
+[2019.12.11-18.15.23:286][944]LogOutputDevice: Error: [Callstack] 0x00007ffbbfe44061 UE4Editor-HotReload.dll!UnknownFunction []
+[2019.12.11-18.15.23:286][944]LogOutputDevice: Error: [Callstack] 0x00007ffbbfe3541a UE4Editor-HotReload.dll!UnknownFunction []
+[2019.12.11-18.15.23:286][944]LogOutputDevice: Error: [Callstack] 0x00007ffbbfe3c48d UE4Editor-HotReload.dll!UnknownFunction []
+[2019.12.11-18.15.23:286][944]LogOutputDevice: Error: [Callstack] 0x00007ffbbfe467d9 UE4Editor-HotReload.dll!UnknownFunction []
+[2019.12.11-18.15.23:286][944]LogOutputDevice: Error: [Callstack] 0x00007ffbbfe46b64 UE4Editor-HotReload.dll!UnknownFunction []
+[2019.12.11-18.15.23:286][944]LogOutputDevice: Error: [Callstack] 0x00007ffbbfe3f3d6 UE4Editor-HotReload.dll!UnknownFunction []
+[2019.12.11-18.15.23:286][944]LogOutputDevice: Error: [Callstack] 0x00007ffbfd0dac6b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.11-18.15.23:286][944]LogOutputDevice: Error: [Callstack] 0x00007ffbfd3e1aa7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.11-18.15.23:286][944]LogOutputDevice: Error: [Callstack] 0x00007ffbfd3c2221 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.11-18.15.23:286][944]LogOutputDevice: Error: [Callstack] 0x00007ffbfd2f4e95 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.11-18.15.23:286][944]LogOutputDevice: Error: [Callstack] 0x00007ffbd86183f7 UE4Editor-Core.dll!UnknownFunction []
+[2019.12.11-18.15.23:286][944]LogOutputDevice: Error: [Callstack] 0x00007ffbd8630ceb UE4Editor-Core.dll!UnknownFunction []
+[2019.12.11-18.15.23:286][944]LogOutputDevice: Error: [Callstack] 0x00007ffbd862fe83 UE4Editor-Core.dll!UnknownFunction []
+[2019.12.11-18.15.23:286][944]LogOutputDevice: Error: [Callstack] 0x00007ffbbfe3d5c3 UE4Editor-HotReload.dll!UnknownFunction []
+[2019.12.11-18.15.23:286][944]LogOutputDevice: Error: [Callstack] 0x00007ffbbfe3b267 UE4Editor-HotReload.dll!UnknownFunction []
+[2019.12.11-18.15.23:286][944]LogOutputDevice: Error: [Callstack] 0x00007ffbbfe3bc86 UE4Editor-HotReload.dll!UnknownFunction []
+[2019.12.11-18.15.23:286][944]LogOutputDevice: Error: [Callstack] 0x00007ffbbfe4c48f UE4Editor-HotReload.dll!UnknownFunction []
+[2019.12.11-18.15.23:286][944]LogOutputDevice: Error: [Callstack] 0x00007ffbd83c382d UE4Editor-Core.dll!UnknownFunction []
+[2019.12.11-18.15.23:286][944]LogOutputDevice: Error: [Callstack] 0x00007ff74b75a93e UE4Editor.exe!UnknownFunction []
+[2019.12.11-18.15.23:286][944]LogOutputDevice: Error: [Callstack] 0x00007ff74b76a91c UE4Editor.exe!UnknownFunction []
+[2019.12.11-18.15.23:286][944]LogOutputDevice: Error: [Callstack] 0x00007ff74b76a9fa UE4Editor.exe!UnknownFunction []
+[2019.12.11-18.15.23:286][944]LogOutputDevice: Error: [Callstack] 0x00007ff74b77b92c UE4Editor.exe!UnknownFunction []
+[2019.12.11-18.15.23:286][944]LogOutputDevice: Error: [Callstack] 0x00007ff74b77e60e UE4Editor.exe!UnknownFunction []
+[2019.12.11-18.15.23:286][944]LogOutputDevice: Error: [Callstack] 0x00007ffc39937974 KERNEL32.DLL!UnknownFunction []
+[2019.12.11-18.15.23:286][944]LogOutputDevice: Error: [Callstack] 0x00007ffc3bd9a271 ntdll.dll!UnknownFunction []
+[2019.12.11-18.15.23:286][944]LogOutputDevice: Error: 
+[2019.12.11-18.15.23:289][944]LogStats:                SubmitErrorReport -  0.000 s
+[2019.12.11-18.15.23:926][944]LogStats:                    SendNewReport -  0.637 s
+[2019.12.11-18.15.23:926][944]LogStats:             FDebug::EnsureFailed -  1.030 s
+[2019.12.11-18.15.23:927][944]LogContentBrowser: Native class hierarchy updated for 'E1211ROBE' in 0.0005 seconds. Added 7 classes and 2 folders.
+[2019.12.11-18.15.23:937][944]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2019.12.11-18.15.24:063][944]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.12.11-18.15.24:084][944]LogContentBrowser: Native class hierarchy populated in 0.0106 seconds. Added 2871 classes and 684 folders.
+[2019.12.11-18.15.24:084][944]Display: HotReload took 25.5s.
+[2019.12.11-18.15.32:350][177]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.11-18.15.32:382][177]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.11-18.15.32:382][177]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.11-18.15.32:382][177]PIE: New page: PIE session: FirstPersonExampleMap (Dec 11, 2019, 8:15:32 AM)
+[2019.12.11-18.15.32:382][177]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.11-18.15.32:398][177]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2019.12.11-18.15.32:425][177]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2019.12.11-18.15.32:425][177]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2019.12.11-18.15.32:425][177]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2019.12.11-18.15.32:425][177]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2019.12.11-18.15.32:425][177]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2019.12.11-18.15.32:450][177]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067673s)
+[2019.12.11-18.15.32:452][177]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.12.11-18.15.32:452][177]LogPlayLevel: PIE: World Init took: (0.002131s)
+[2019.12.11-18.15.32:452][177]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.070002s)
+[2019.12.11-18.15.32:588][177]LogUObjectHash: Compacting FUObjectHashTables data took   8.71ms
+[2019.12.11-18.15.32:597][177]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.11-18.15.32:610][177]LogInit: FAudioDevice initialized.
+[2019.12.11-18.15.32:619][177]LogLoad: Game class is 'E1211ROBEGameMode'
+[2019.12.11-18.15.32:622][177]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.12.11-13.15.32
+[2019.12.11-18.15.32:623][177]LogWorld: Bringing up level for play took: 0.002957
+[2019.12.11-18.15.32:623][177]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2019.12.11-18.15.32:626][177]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.997
+[2019.12.11-18.15.32:626][177]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.11-18.15.35:509][346]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2019.12.11-18.15.36:007][375]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2019.12.11-18.15.37:582][465]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2019.12.11-18.15.38:662][527]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2019.12.11-18.15.38:820][536]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.11-18.15.38:820][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-18.15.38:820][536]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.12.11-18.15.38:820][536]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.11-18.15.38:841][536]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.11-18.15.38:842][536]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.12.11-18.15.38:909][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.11-18.15.38:945][536]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2019.12.11-18.15.38:945][536]LogUObjectHash: Compacting FUObjectHashTables data took   7.08ms
+[2019.12.11-18.15.38:976][537]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.12.11-18.15.39:505][566]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2019.12.11-18.15.40:309][598]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2019.12.11-18.15.40:378][600]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.12.11-18.17.30:417][954]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.11-18.17.31:415][994]Candidate modules for hot reload:
+[2019.12.11-18.17.31:415][994]  E1211ROBE
+[2019.12.11-18.17.31:415][994]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=E1211ROBE,4570 Win64 Development -TargetType=Editor -Project="C:/Users/Robert/Desktop/E1211ROBE_EXAM/E1211ROB/E1211ROBE/E1211ROBE.uproject" "C:/Users/Robert/Desktop/E1211ROBE_EXAM/E1211ROB/E1211ROBE/E1211ROBE.uproject"  -IgnoreJunk]
+[2019.12.11-18.17.31:419][994]Warning: Starting HotReload took  0.0s.
+[2019.12.11-18.18.25:442][233]CompilerResultsLog: New page: Compilation - Dec 11, 2019, 8:18:25 AM
+[2019.12.11-18.18.25:443][233]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Robert\Desktop\E1211ROBE_EXAM\E1211ROB).
+[2019.12.11-18.18.25:443][233]CompilerResultsLog: Parsing headers for E1211ROBEEditor
+[2019.12.11-18.18.25:443][233]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Robert\Desktop\E1211ROBE_EXAM\E1211ROB\E1211ROBE\E1211ROBE.uproject" "C:\Users\Robert\Desktop\E1211ROBE_EXAM\E1211ROB\E1211ROBE\Intermediate\Build\Win64\E1211ROBEEditor\Development\E1211ROBEEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.11-18.18.25:443][233]CompilerResultsLog: Reflection code generated for E1211ROBEEditor in 25.4243034 seconds
+[2019.12.11-18.18.25:443][233]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.11-18.18.25:443][233]CompilerResultsLog: Building 5 actions with 8 processes...
+[2019.12.11-18.18.25:443][233]CompilerResultsLog:   [1/5] Deadly_Trap.cpp
+[2019.12.11-18.18.25:443][233]CompilerResultsLog:   [2/5] EnergyDrink.cpp
+[2019.12.11-18.18.25:443][233]CompilerResultsLog:   [3/5] UE4Editor-E1211ROBE-4570.lib
+[2019.12.11-18.18.25:443][233]CompilerResultsLog:      Creating library C:\Users\Robert\Desktop\E1211ROBE_EXAM\E1211ROB\E1211ROBE\Intermediate\Build\Win64\UE4Editor\Development\E1211ROBE\UE4Editor-E1211ROBE-4570.lib and object C:\Users\Robert\Desktop\E1211ROBE_EXAM\E1211ROB\E1211ROBE\Intermediate\Build\Win64\UE4Editor\Development\E1211ROBE\UE4Editor-E1211ROBE-4570.exp
+[2019.12.11-18.18.25:443][233]CompilerResultsLog:   [4/5] UE4Editor-E1211ROBE-4570.dll
+[2019.12.11-18.18.25:443][233]CompilerResultsLog:      Creating library C:\Users\Robert\Desktop\E1211ROBE_EXAM\E1211ROB\E1211ROBE\Intermediate\Build\Win64\UE4Editor\Development\E1211ROBE\UE4Editor-E1211ROBE-4570.suppressed.lib and object C:\Users\Robert\Desktop\E1211ROBE_EXAM\E1211ROB\E1211ROBE\Intermediate\Build\Win64\UE4Editor\Development\E1211ROBE\UE4Editor-E1211ROBE-4570.suppressed.exp
+[2019.12.11-18.18.25:443][233]CompilerResultsLog:   [5/5] E1211ROBEEditor.target
+[2019.12.11-18.18.25:443][233]CompilerResultsLog: Total time in Parallel executor: 24.95 seconds
+[2019.12.11-18.18.25:443][233]CompilerResultsLog: Total execution time: 53.87 seconds
+[2019.12.11-18.18.25:443][233]LogMainFrame: MainFrame: Module compiling took 54.032 seconds
+[2019.12.11-18.18.25:490][233]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2019.12.11-18.18.25:553][233]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.12.11-18.18.25:898][233]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.345 s
+[2019.12.11-18.18.25:898][233]LogOutputDevice: Error: === Handled ensure: ===
+[2019.12.11-18.18.25:898][233]LogOutputDevice: Error: 
+[2019.12.11-18.18.25:898][233]LogOutputDevice: Error: Ensure condition failed: this->IsBound() [File:C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Delegates/DelegateSignatureImpl.inl] [Line: 1136]
+[2019.12.11-18.18.25:898][233]LogOutputDevice: Error: Unable to bind delegate to 'OnOverlapBegin' (function might not be marked as a UFUNCTION or object may be pending kill)
+[2019.12.11-18.18.25:898][233]LogOutputDevice: Error: Stack: 
+[2019.12.11-18.18.25:898][233]LogOutputDevice: Error: [Callstack] 0x00007ffc292ef6f1 UE4Editor-E1211ROBE-4570.dll!DispatchCheckVerify<bool,<lambda_d3bdf8f7eb11dd76881fe2780fa75e7c> >() [c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\misc\assertionmacros.h:164]
+[2019.12.11-18.18.25:898][233]LogOutputDevice: Error: [Callstack] 0x00007ffc292e83eb UE4Editor-E1211ROBE-4570.dll!AEnergyDrink::AEnergyDrink() [c:\users\robert\desktop\e1211robe_exam\e1211rob\e1211robe\source\e1211robe\energydrink.cpp:25]
+[2019.12.11-18.18.25:898][233]LogOutputDevice: Error: [Callstack] 0x00007ffbbfe44061 UE4Editor-HotReload.dll!UnknownFunction []
+[2019.12.11-18.18.25:898][233]LogOutputDevice: Error: [Callstack] 0x00007ffbbfe3541a UE4Editor-HotReload.dll!UnknownFunction []
+[2019.12.11-18.18.25:898][233]LogOutputDevice: Error: [Callstack] 0x00007ffbbfe3c48d UE4Editor-HotReload.dll!UnknownFunction []
+[2019.12.11-18.18.25:898][233]LogOutputDevice: Error: [Callstack] 0x00007ffbbfe467d9 UE4Editor-HotReload.dll!UnknownFunction []
+[2019.12.11-18.18.25:898][233]LogOutputDevice: Error: [Callstack] 0x00007ffbbfe46b64 UE4Editor-HotReload.dll!UnknownFunction []
+[2019.12.11-18.18.25:898][233]LogOutputDevice: Error: [Callstack] 0x00007ffbbfe3f3d6 UE4Editor-HotReload.dll!UnknownFunction []
+[2019.12.11-18.18.25:898][233]LogOutputDevice: Error: [Callstack] 0x00007ffbfd0dac6b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.11-18.18.25:898][233]LogOutputDevice: Error: [Callstack] 0x00007ffbfd3e1aa7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.11-18.18.25:898][233]LogOutputDevice: Error: [Callstack] 0x00007ffbfd3c2221 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.11-18.18.25:898][233]LogOutputDevice: Error: [Callstack] 0x00007ffbfd2f4e95 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.11-18.18.25:898][233]LogOutputDevice: Error: [Callstack] 0x00007ffbd86183f7 UE4Editor-Core.dll!UnknownFunction []
+[2019.12.11-18.18.25:898][233]LogOutputDevice: Error: [Callstack] 0x00007ffbd8630ceb UE4Editor-Core.dll!UnknownFunction []
+[2019.12.11-18.18.25:898][233]LogOutputDevice: Error: [Callstack] 0x00007ffbd862fe83 UE4Editor-Core.dll!UnknownFunction []
+[2019.12.11-18.18.25:898][233]LogOutputDevice: Error: [Callstack] 0x00007ffbbfe3d5c3 UE4Editor-HotReload.dll!UnknownFunction []
+[2019.12.11-18.18.25:898][233]LogOutputDevice: Error: [Callstack] 0x00007ffbbfe3b267 UE4Editor-HotReload.dll!UnknownFunction []
+[2019.12.11-18.18.25:898][233]LogOutputDevice: Error: [Callstack] 0x00007ffbbfe3bc86 UE4Editor-HotReload.dll!UnknownFunction []
+[2019.12.11-18.18.25:898][233]LogOutputDevice: Error: [Callstack] 0x00007ffbbfe4c48f UE4Editor-HotReload.dll!UnknownFunction []
+[2019.12.11-18.18.25:898][233]LogOutputDevice: Error: [Callstack] 0x00007ffbd83c382d UE4Editor-Core.dll!UnknownFunction []
+[2019.12.11-18.18.25:898][233]LogOutputDevice: Error: [Callstack] 0x00007ff74b75a93e UE4Editor.exe!UnknownFunction []
+[2019.12.11-18.18.25:898][233]LogOutputDevice: Error: [Callstack] 0x00007ff74b76a91c UE4Editor.exe!UnknownFunction []
+[2019.12.11-18.18.25:898][233]LogOutputDevice: Error: [Callstack] 0x00007ff74b76a9fa UE4Editor.exe!UnknownFunction []
+[2019.12.11-18.18.25:898][233]LogOutputDevice: Error: [Callstack] 0x00007ff74b77b92c UE4Editor.exe!UnknownFunction []
+[2019.12.11-18.18.25:898][233]LogOutputDevice: Error: [Callstack] 0x00007ff74b77e60e UE4Editor.exe!UnknownFunction []
+[2019.12.11-18.18.25:898][233]LogOutputDevice: Error: [Callstack] 0x00007ffc39937974 KERNEL32.DLL!UnknownFunction []
+[2019.12.11-18.18.25:898][233]LogOutputDevice: Error: [Callstack] 0x00007ffc3bd9a271 ntdll.dll!UnknownFunction []
+[2019.12.11-18.18.25:898][233]LogOutputDevice: Error: 
+[2019.12.11-18.18.25:900][233]LogStats:                SubmitErrorReport -  0.000 s
